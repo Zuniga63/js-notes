@@ -17,7 +17,7 @@ npx eslint --init
 ## Se instala Prettier
 
 ~~~bash
-npm i -D prettier eslint-config-prettier
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier@latest
 ~~~
 
 ## Se agrega la cofiguración necesaria a eslintrc
